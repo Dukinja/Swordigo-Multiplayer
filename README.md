@@ -27,3 +27,7 @@ International Test at 300 ping
 https://youtu.be/WOf4LQpj-Ws?si=qI3IALshhq5rsKZ7
 https://youtu.be/lmF1_qLR6vQ?si=04fbeEJ0QbNDou3R
 Network Jitter/Lag Tests
+
+<img width="2392" height="1080" alt="image" src="https://github.com/user-attachments/assets/30f68406-e19d-4c9b-8fb9-70609a6dcb8d" />
+<img width="2392" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c532b0a-fda5-4f04-a227-23115850e24a" />
+Ping and Stats
